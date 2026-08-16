@@ -1,0 +1,21 @@
+{
+  "name": "contador-de-palavras",
+  "version": "1.0.0",
+  "description": "Aplicação simples em JavaScript para contar palavras contidas em um determinado arquivo de texto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvesmaarcos/contador-de-palavras.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/alvesmaarcos/contador-de-palavras/issues"
+  },
+  "homepage": "https://github.com/alvesmaarcos/contador-de-palavras#readme"
+}
